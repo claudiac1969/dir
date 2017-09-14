@@ -1,0 +1,889 @@
+name	officenumber	dir
+01 AT&T	9+ 101-0288+0	it
+02 Bell South	910-102880	115
+03 Excel	800-783-9235	115
+05 Sprint (number +0)	800-877-8000	nicu
+06 VA Extensions	63+ext	it
+07 VA Paging	63-32	
+10WT - Waiting for room assignment - xfer to Admissions	265-0236	nicu
+15ES - Peds ER nurse station	5-5437	it
+21CA - CATH LAB NORTH TOWER	5-0119	115
+23AS	5-0023	115
+23OR - Pt in surgery - xfer to waiting room or OR(50023)	4-6186	115
+23OR	5-0023	115
+23RR - Pt in recovery - xfer to waiting room or OR(50023)	4-6186	115
+23RR	5-0023	it
+33N3	5-0033	
+34LD	5-0034	nicu
+34OP -UNIT 34 NORTH TOWER	5-0034	115
+35N2 - NICU II	5-0352	115
+4E (Nurse Station) FAX Rm 4207 Bldg P04	733-1317	
+4E SICU / Intermediate Care Rm 42XX Bldg P04	733-0942	
+4th Floor Info Desk	4-5674	it
+4th Floor Reception Bldg P04	733-0940	it
+4W (Nurse Station) FAX Rm 4121 Bldg P04	733-1321	it
+4W SICU /sicu trauma/ IMC/ Rm 41XX Bldg P04	733-0941	
+5E Onc/Surg (Nurse Station) FAX Rm 5207 Bldg P04	733-1327	nicu
+5E Onc/Surg 52-xxx Bldg P04	733-0952	it
+5W Trauma (Nurse Station) FAX Rm 5147 Bldg P04	733-1328	
+5W Trauma 51-xxx Bldg P04	733-0951	it
+5W Trauma 51- backline for Clerk P04	2-9277	
+6E Spec Surg (Nurse Station) FAX Rm 6207 Bldg P04	733-1331	it
+6E Spec Surg 62-xxx Bldg P04	733-0962	
+6W Ortho (Nurse Station) FAX Rm 6147 Bldg P04	733-1333	
+6W Ortho 61-xxx Bldg P04	733-0961	
+72TU - ADTU 7TH FLOOR NORTH TOWER	5-1372	it
+7E BMT-Out Patient Clinic Bldg P04	733-0972	nicu
+7E BMT Clinic (BMT Coord/Assistant) FAX Rm 7222 Bldg P04	733-1338	it
+7W BMT (Nurse Station) FAX Rm 7147 Bldg P04	733-1335	nicu
+7W BMT 71-xxx Bldg P04 Adult	733-0971	115
+8E Hem/Onc (Coordinator Office) FAX Rm 8251 Bldg P04	733-1382	it
+8E Hem/Onc (Nurse Station) FAX Rm 8207 Bldg P04	733-1342	
+8E Hem/Onc 80-xxx Bldg P04	733-0980	nicu
+8E Hem/Onc 82-xxx Bldg P04	733-0982	it
+Abuse Hotline (Adult&Peds)	800-962-2873	115
+Accent Physicians	372-9414	it
+Access Services - Family Practice referrals	352-265-1234	nicu
+Access Services - Referrals for Speciality Clinics Outpat	352-265-5555	115
+Accounting Services-Cost,Price,and Reimbursement(inhouse)	265-7967	nicu
+Accounting Services - Accounts Payable	265-7961	nicu
+Accounting Services - Auditings, Internal	265-7969	115
+Accounting Services - Budget and Planning	265-7965	it
+Accounting Services - Fax	265-7966	it
+Accounting Services - Finance	265-7962	nicu
+Accounting Services - Financial Analysis	265-7964	nicu
+Accounting Services - General Accounting	265-7962	115
+Accounts Payable	265-7961	
+Accreditation & Licensure(Quality Management) - Fax	265-0639	115
+Accreditation & Licensure(Quality Management)	265-0002	nicu
+Acorn Clinic	485-1133	115
+Acute Pain Service - Fellow	352-219-5453	
+Acute Pain Service - Resident	352-494-1496	115
+Acute Stress (HELP)	265-4357	it
+ADD(Ped Multi Specialty)	334-0228	115
+Addiction Consult - Inpatient Only	413-6810	
+Addiction Recovery Center - 4001 SW 13th St	265-4372	
+ADD (HELP)	265-4357	nicu
+ADHD (HELP)	265-4357	
+Administration-Assoc. VP Comm. & PR- Wanda English	352-265-0373	nicu
+Administration-Assoc. VP Supply Chain- Laura Kowalczyk	352-733-0005	115
+Administration-Associate VP Nursing- Duke Lim	352-733-1329	nicu
+Administration-Associate VP Nursing- Wanda Whittet	352-733-1325	
+Administration-Associate VP Operations- Anna M. Brandt	352-594-1350	
+Administration-Associate VP Operations- Diana Richardson	352-594-1350	115
+Administration-Associate VP Operations- Drew Smithson	352-594-1350	115
+Administration-Director Internal Audit- Tammy Rice	352-265-7237	
+Administration-Sr. VP & Quality Officer- Randy Harmatz	352-594-1307	it
+Administration-VP Compliance & Privacy-Elizabeth Ruszczyk	352-627-0950	it
+Administration- Business Dev. Director- Dana Nemenyi	352-733-0003	nicu
+Administration- CCO - Chief Communications Officer	352-273-5810	it
+Administration- CCO - Melanie Ross	352-273-5810	115
+Administration- Children's Hospital- Mark Amox	352-273-5014	
+Administration- VP Revenue Cycle- Chuck Behl	352-265-8482	115
+Administration - CDO - Chief Development Officer	352-273-9620	115
+Administration - CDO - Mary Ann Kiely	352-273-9620	
+Administration - CEO - Chief Executive Officer	352-733-1500	nicu
+Administration - CEO - Edward Jimenez	352-733-1500	
+Administration - CFO - Chief Financial Officer	352-733-1600	nicu
+Administration - CFO - James J. Kelly, Jr.	352-733-1600	115
+Administration - CIO - Chief Information Officer	352-594-1000	115
+Administration - CIO VP - Kari Cassel	352-594-1000	it
+Administration - CMO - Chief Medical Officer	352-273-7520	nicu
+Administration - CMO - Timothy C. Flynn	352-273-7520	
+Administration - CNO - Chief Nursing Officer	352-594-1308	
+Administration - COO - Chief Operations Officer	352-265-0440	nicu
+Administration - COO - vacant	352-265-0440	
+Administration - Sr Dir Marketing & PR	352-265-0373	115
+Administration - Sr VP & General Counsel - James Roberts	352-733-1600	115
+Administration - Sr VP Health Affairs - David S. Guzick	352-733-1700	nicu
+Administration - Sr VP Human Resources - Janet Christie	352-265-7949	115
+Administration - Vista/Rehab - Marina Cecchini	352-265-5491	115
+Administration - VP & CNO - Irene Alexaitis	352-594-1308	it
+Administration - VP Facilities Dev - Bradley S. Pollitt	352-594-5073	
+Administration - VP Finance - Vacant	352-265-8304	115
+Administration - VP Managed Care - Vacant	352-265-8482	nicu
+Administration - VP Planning & Business Dev - S. Blumberg	904-244-7796	115
+Admissions - Administration - Fax	265-0363	it
+Admissions - Administration	265-0322	
+Admissions - Bed Control	265-0233	
+Admissions - Discharge - Fax	265-0363	115
+Admissions - Discharge Unit 1st flr	265-0930	115
+Admissions - Financial Counselors	265-0477	nicu
+Admissions - Starke	904-368-2304	115
+Admissions Financial Counselors - Estimates on Procedures	352-265-0477	115
+Admissions Main Bldg P04	733-0828	
+Admissions	265-0236	115
+Adolescent Clinic(Peds CMS)	334-0206	nicu
+Adolescent Clinic - Administration	334-1357	nicu
+Adolescent Psychiatry Hospital	265-5481	115
+Adreima - HICRA	5-2941	115
+Adreima - Hospital Pt.Financial Aid	5-2941	
+Adreima - Patient Financial Aid -Medicaid & Disability	5-2941	it
+ADTU - Patient Discharge Lounge	4-3587	it
+ADTU Unit on 72	265-1372	115
+ADTU Unit 1st Flr	265-0930	nicu
+Adult ED P04	3-0815	nicu
+Adult ER P04	3-0815	it
+Adult Medical Oncology	352-265-0725	
+Adult Psychiatric Hospital	265-5481	
+Adult Psychiatry (HELP)	265-4357	it
+Aesthetic Center	265-8402	nicu
+After Hours Primary Care-After 6P-9P MON-FRI/ SAT 10a-1p	352-273-8613	it
+After Hours Primary Care- Before 6PM call Mon.- FRI.	352-265-1234	it
+Aggression	265-4372	nicu
+AGH - Billy`s Towing Service no answer call 371-7028	352-376-0144	
+Agoraphobia (HELP)	265-4357	it
+AHEC	265-8026	
+Al'z Place (Eldercare)	375-3000	
+Alachua County Ambulance Service	955-1818	115
+Alachua County Crisis Center	264-6789	nicu
+Alachua County Health Department	334-7900	nicu
+Alachua County Medicaid	(386) 418-5350	it
+Alachua County Medical Society	352-376-0715	it
+Alachua County Sheriffs Office - Information	264-6600	115
+Alcohol Abuse	265-4372	nicu
+Alcohol	265-4372	nicu
+Allergy Clinic ( Adults ) Hampton Oaks ENT	265-9465	nicu
+Allergy Clinic ( Peds )	265-8250	115
+Allergy Clinic - Internal Medicine Medical Specialties	352-265-0420	nicu
+Allergy Clinic at Medical Specialties	352-265-0420	nicu
+Alliance Pediatrics	(352) 371-0301	it
+Allied Health Recruitment	5-7576	it
+Alpha 1 antitrypsin (Vince Corcoran)	392-7558	115
+Alpha 1 Antitryspin Lab	294-5201	115
+Alumni Affairs - UF	352-392-1905	nicu
+Alxheimers	265-5481	nicu
+Ambulance ( Non Emerency )	384-3150	nicu
+Ambulatory Care Surgery P04	3-0922	115
+Ambulatory Surgery Waiting - P04	3-0919	
+Ambulatory Surgery waiting area - Check In	4-5750	it
+Ambulatory Surgery waiting area 1st floor	4-7414	it
+American Cancer Society (wigs)	376-6866	it
+Amphetamine - induced disorders	265-4372	
+Amphetamine	265-4372	nicu
+Anatomical Board (bodies to science) - days	392-3588	it
+Anatomical Board - after hrs & wkends	379-4742	nicu
+Anatomical Board - Fax	392-3940	it
+Anatomical Board - Tollfree	800-628-2594	
+Anatomical Lab FAX Rm 23C9.1 Bldg P04	733-1314	nicu
+Anatomy & Cell Biology - Fax	392-3305	
+Anesthesia - Admin & Fiscal Offices - Fax	265-8013	it
+Anesthesia - Admin & Fiscal Offices	294-5078	it
+Anesthesia - Chairman's Office - Fax	392-6464	115
+Anesthesia - Chairman's Office	273-8610	
+Anesthesia - Critical Care Medicine	265-0463	nicu
+Anesthesia - Faculty Offices - 5th Floor - Fax	392-7029	
+Anesthesia - Faculty Offices - 5th Floor	(352) 273-6575	nicu
+Anesthesia - Library	4-3771	115
+Anesthesia - Pediatric Critical Care Medicine - Fax	265-0443	nicu
+Anesthesia - Peds Critical Care Medicine -Administration	265-0462	115
+Anesthesia - Pre-Op 1ST FLOOR (FAX LINE)	4-6360	nicu
+Anesthesia - Pre-OP Resident (for In-house staff only)	260-8884	115
+Anesthesia - Pre Surgical Center (formerly Preop clinic)	265-0076	nicu
+Anesthesia - Residents Office - Fax	265-6922	it
+Anesthesia - Residents Office	265-0077	nicu
+Anesthesia - Residents Pre-Op (in-house staff only)	260-8884	nicu
+Anesthesia Block Room 2219 P04 bldg	3-1142	115
+Anesthesia Block Room	4-4207	115
+Anesthesia Dept. Main Line	273-6575	115
+Anesthesia IMC	494-9189	nicu
+Anesthesia Pain Back-up	494-1496	115
+Anesthesia SICU	494-9189	
+Anesthesia Work Room (OR) Tech room	4-5631	
+Anesthesia	352-265-0076	nicu
+Anger (HELP)	265-4357	
+Angiogram - Radioloy Scheduling	265-0104	it
+Animal Research Lab	392-3171	
+Animal Resources-34th St.Farm Unit Supv.	870-3036	115
+Animal Resources - Farm and Primate Animal Care	392-3171	nicu
+Anonymous HIV Testing	392-9719	
+Anthrax testing - Infection Control	265-0284	
+Anti-Infective Program	258-5944	nicu
+Anti-Microbial Program	258-5944	nicu
+Antibiotic Approval	258-5944	115
+Antibiotic Management Prgm (ID Pharm)	258-5944	115
+Antidepressants (HELP)	265-4357	nicu
+Antitrypsin Gene Research Study ( Ped Pulmonary )	273-8380	115
+Antitrypsin ( Info )	846-2701	nicu
+Antitrypsin ( Screening )	392-6666	115
+Anus GI(Gastro-Intestinal)	273-9400	115
+Anxiety (HELP)	265-4357	
+Anxiety Disorders (HELP)	265-4357	nicu
+AOD (Medicine)	413-4587	it
+AOD - Pain - South Tower	260-7638	it
+AOD - Pain - North Tower	494-4990	it
+APDG - Advanced Pratice General Denistry	273-7915	
+Appointments - General	265-5555	
+ARB Building (info for renting)	392-2623	it
+Archer Family Care FAX	352-495-3401	nicu
+Archer Family Care	495-2550	
+Area Health Education Center	392-0030	nicu
+Arthritis Clinic (Return Patients)	265-0139	nicu
+Arthritis Dept(new patients)	352-294-8200	
+Artificial Insemination(admin office)	392-4160	nicu
+Artificial Insemination (clinic)	265-6200	
+Arts in Medicine Rm 1302.2 Bldg P04	733-0880	115
+Asperger`s Disorder (HELP)	265-4357	115
+Assistance on Medical help(Hurricane) Red Cross	866-438-4636	nicu
+Asthma Research Lab (not patient care)	392-9086	
+Asthma Research Lab	273-6183	nicu
+Athletic Association ( Ticket )	(800) 344-2867	
+Athletic Assoiation (x 6800)	375-4683	115
+Attention - Deficit/Hyperactivity Disorder (HELP)	265-4357	it
+Attention Deficit Disorder (ADD) (HELP)	265-4357	nicu
+Attention Deficit Disorder (ADHD)	334-0228	nicu
+Attention Deficit Hyperactivity Disorder (ADHD) (HELP)	265-4357	
+Attorney	(352) 733-0030	
+Audiology (Speech & Hearing)	273-5555	
+Audiology - Park Ave	294-5151	nicu
+Audio Visual Services - AV Check-Out	273-5057	115
+Audio Visual Services - Communicore Lecture Halls	392-3780	nicu
+Audio Visual	273-5057	
+Auditor	265-7969	115
+Autism, Center for - Fax	846-0941	it
+Autism, Center for	846-2761	it
+Autism - Children (Child Psychiatry) (HELP)	265-4357	nicu
+Autistic Disorder (HELP)	265-4357	it
+Autopsy	273-5900	nicu
+Auto Attendant - Starke	904-368-2300	it
+Auxiliary (Volunteer) Services 	265-0360	it
+Avant-Garde Salon - P04 	376-0037	nicu
+Ayers/ Florida Healthcare Credit Union 	381-0222	nicu
+Ayers - Deli 	273-2600	
+Ayers - Diagnostic Lab/Center 	733-0070	
+Ayers - Dialysis (Gville Kidney Center East) - Fax 	335-4112	
+Ayers - Dialysis (Gville Kidney Center East) 	335-1751	
+Ayers - Hematology/Oncology-Florida Cancer Specialists 	373-0933	
+Ayers - Hematology/Oncology - Fax 	377-5215	
+Ayers - Pediatric Surgery Center - FAX 	733-0067	
+Ayers - Pediatric Surgery Center 	733-0065	
+Ayers - Peds GI Colonoscopy 	733-0065	
+Ayers - Plaza Pharmacy 	733-0090	
+Ayers Diagnostic Imaging - MRI - FAX 	733-0026	
+Ayers Diagnostic Lab - FAX 	733-0071	
+Ayers Imaging 	265-0104	
+Ayers Materials Managment 	733-0080	
+Ayers MRI 	7-0522	
+Ayers Pathology Lab - out patient 	733-0070	
+Ayers Pediatric Clinic 	(352) 265-8250	
+Ayers Peds Gastrology Dept. 	273-9350	
+Ayers Plaza - Pharmacy - FAX 	733-0098	
+Ayers Plaza - Pharmacy 	733-0090	
+Ayers Security - back up 	258-4519	
+A Point of Care - Lab Coordinator 24/7 	352-256-7031	
+Baby Cremains - inhouse fetal deaths only 	4-6539	
+Baby Gator 	392-2330	
+Bacteriology 	265-0165	
+Badge Replacement Fax 	265-7218	
+Badge replacement fax 	5-7218	
+BAKER,CHARLES EXT:4 HC DEPT:3523922235 		it
+Baker Act 	265-5481	nicu
+Bar-Medicaid supervisor 	8-5309	nicu
+BARGER,ROYA MRS. EXT:4208 HC DEPT:3523921161 		
+Bariatric Surgery - Dr Ben-David 	(352) 265-4226	
+Bar - Billing UF Physicians 	265-7906	
+BASA,PATRICIA Mrs. EXT:45144 HC DEPT:3522738317 		
+BAUTISTA,MIHO EXT:6077 HC DEPT:3523761611 		
+BAXLEY,CHRISTINE Ms. EXT:40563 HC DEPT:3522659470 		
+BAYNE,ASHLEY Mrs. EXT:48969 HC DEPT:3522650680 		
+BEACHBOARD,SARAH MS. EXT:806 HC DEPT:3522944106 		
+BEAULIEU,REBECCA EXT:87829 HC DEPT:3522650680 		
+Bed Control - days (24hrs/7days) 	265-0233	
+Bed Control - Fax 	265-0280	
+Bed Control P04 	2-8840	
+Bed Man (after 11:30pm) 	413-6001	
+Bed Man Mon - Fri 	413-5961	
+Bed man (Melvin Brown) 	413-5980	
+Bed Man 	494-4862	
+Bed Tower - VA Veterans Hsopital 	(352) 548-6000	
+BEGUIRISTAIN,JENNIFER Ms. EXT:47555 HC DEPT:3522650680 		
+Behavioral Hospital 	265-5481	
+Behavior Health 	(352) 392-3611	
+Behavior problems 	265-5481	
+Bell South 	866-321-6716	
+Benefits ( back line ) 	4-7399	
+Benefits - fax 	265-1058	
+Benefits - Fax 	265-7947	it
+Benefits back line 	4-7399	nicu
+Benefits for Residents 	273-5077	nicu
+Benefits (W-2 forms) 	5-7568	
+Benefits 	265-0043	
+BENHAM,WAYNE Mr. EXT:4202 HC DEPT:3523921161 		
+BERENS,THOMAS DR. EXT:217 HC DEPT:3523924541 		
+BERRY,ELIZABETH MRS. EXT:4820 HC DEPT:3523924700 		
+BESSENT,LISA MS. EXT:4000 HC DEPT:3523924700 		
+Bile Duct ( Center for Hepatobiliary Disease ) 	265-0606	
+Billing & Collections M-F 8:30a-4:30p 	265-0355	
+Billing & Collections 	800-342-5364	
+Billing (xfer insurance companies to this line) 	265-0697	
+Billing - Fax 	265-9011	
+Billing - University Physicians 	265-7906	
+Billing Address (4024 NW 22ND Drive )off 39th 32605 	265-0355	
+Billing Adminstration 	352-265-9022	
+Binge Eating (HELP) 	265-4357	
+Bio-Chemistry - Stockroom 	392-3307	
+Bio-Chemistry 	392-3361	
+Bio-Engineering 	265-0089	
+Bio-Medical Media Services - Accts Payable/Purchasing 	392-4146	
+Bio-Medical Media Services - Business Manager 	392-4147	
+Bio-Medical Media Services - Copy Center 	273-5350	
+Bio-Medical Media Services - Fax 	392-4156	
+Bio-Medical Media Services - Front Desk/Director 	273-5044	
+Bio-Medical Media Services - Graphics 	273-5044	
+Bio-Medical Media Services - Radio-TV/Film Coord. 	392-4143	it
+Bio-Systems ( Sharps disposal ) 	(904) 716-5630	nicu
+Biochemistry & Molecular Biology - Fax 	392-2953	nicu
+Biochemistry & Molecular Biology 	392-3361	
+Bioethics, Law & Medical Professionalism - Fax 	273-5213	
+Bioethics, Law & Medical Professionalism 	273-5155	
+Biopsy ( Breast ) Park Ave Imaging 	(352) 265-0000	
+Biostatistics, Department of (Fax) 	352-294-1930	
+Biostatistics, Department of 	352-294-1925	
+Bio Feedback (Clinical Psych) 	265-0294	
+Bipolar (HELP) 	265-4357	
+Bipolar Disorder 	265-5481	
+Birth Certificates (Alachua Cty.Health Dept.) 	334-7900	
+Birth Certificates (inhouse-Mother Baby) 	265-0035	
+BISHOP,KEVIN Ms. EXT:40256 HC DEPT:3522656200 		
+Black,David(Private ofc-own answering service) 	376-7751	
+Bladder GU(Genital-Urinary)Oncology Center 	(352) 265-8282	
+BLENCO,BETTY MRS. EXT:4930 HC DEPT:3523921161 		
+Blind Services - Toll free 	800-443-0908	
+Blind Services 	955-2075	
+Block Room - P04 	3-1142	
+Blood Bank - Fax 	265-0320	
+Blood Bank Bldg P04 	733-0900	
+Blood Bank FAX Rm G110.3 Bldg P04 	733-1346	
+Blood Bank Supervisor Hotline 	352-733-0900	
+Blood Bank Supervisor On Call 	352-260-3358	
+Blood Bank 	733-0900	
+Blood Draw - Blood draw 	(386) 362-0860	it
+Blood Exposures-Employees- Aft.Hrs/Weekends PAGE Nurse AD 	413-3498	nicu
+Blood Exposures-Employees- M-F 7am-5pm 	265-0250	nicu
+Blood Gas Lab 	265-0199	
+Blue Gill 	(352) 872-5181	
+Blue Roof - CMS or Main Street Clinic 		
+BMTU 	265-0042	
+BOC ( Engineering ) 	265-0935	
+Bodies to Science - Anatomical Board- DAYS 	392-3588	
+Bodies to Science - Anatomical Board - AFTER HRS & WKENDS 	379-4742	
+Body Fluid Exposures- Employees Aft.Hr/WkEnd PAGE NurseAD 	413-3498	
+Body Fluid Exposures - Employees M-F 7am-5pm 	265-0250	
+Body Release 0700-1700 M-F ADTU 	265-0930	
+Body Release 1700-0700 M-F Aft.Hrs 	494-5795	
+Body release after hrs 7PM-7AM Mon - Sun 	225-7474	
+Body Release Baby Cremains-inhouse fetal deaths only 	4-6539	
+Body Release BACKUP only-Lead Nursing Coord 	494-5740	
+Body Release Information after 7pm 24/7 	225-7474	
+Body Release Weekends & Holidays all day 	494-5795	
+Body Scan 	4-4362	
+Bone & Soft Tissue Sarcoma 	273-7195	
+Bone Bank 	273-7002	
+Bone Bank 	1053	
+Bone Density Testing 	265-0104	
+Bone Density Testing 	265-6200	
+Bone Marrow & Stem Cell Transplant 	3-0972	
+Bone Marrow ( Coordinator ) 	3-0972	
+Bone Marrow - Peds outpaient 	4-9677	it
+Bone Marrow Clinic (outpatient) 	3-0972	nicu
+Bone Marrow Lab/Purging Lab 	265-0232	nicu
+Bone Marrow Peds unit 42 inpatient 	265-0042	
+Bone Marrow Transplant Hematology Oncology Center 	(352) 265-0725	
+Bone Marrow Unit (inpatient) 	3-0971	
+Bookstore - Fax -In hospital 	392-9751	
+Bookstore - In Hospital 	352-627-9230	
+Bookstore - Reitz Union 	392-1630	
+Botox - Movement Disorder 	294-5000	
+Bowers Lab(3rd floor in Brain Institute building) 	392-3450	
+BOZORGMEHRI,SHAHAB EXT:6802 HC DEPT:3522715000 		
+Bradford County Jail 	904-966-6250	
+Bradford Medical Group 	904-368-2343	
+Brain & Spine Tumors 	273-9000	
+Brain Institute/Clinic-Main line 	273-8500	
+Brain Preston A Wells Jr.Center for Brain Tumor Therapy 	(352) 273-9000	
+Brain Stimulation (HELP) 	265-4357	
+Brain Stimulation 	273-9000	
+Brain Tumors (Neurosurgery) 	273-9000	
+BRASINGTON,ALLEN DR. 	(352) 333-5242	
+Breach Of Privacy 	(877) 552-1299	
+Breast (physcians appt.requests) 	265-7070	
+Breast ( Breast Center ) 	(352) 265-7070	
+Breast Center Coordination Office 	265-7070	
+Breast Center 	265-7070	
+Breast Related Calls 	265-7070	
+Breast 	265-7070	it
+Bridge House 	374-5615	nicu
+Bronchoscopy 	265-0275	nicu
+Bronhoscopy 	413-9189	
+BROWN,KRISTY MS. EXT:14224 HC DEPT:3523921161 		
+BROWN,LISA MS. EXT:4312 HC DEPT:3523921161 		
+BROWN,TRUDENCE MS. EXT:72061 HC DEPT:3522659900 		
+BRYANT,PATRICE EXT:86303 HC DEPT:3522658053 		
+Budget & Planning - Health Center 	392-2764	
+Budget & Planning - Shands 	265-7965	
+Bulimia (HELP) 	265-4357	
+Burigo Jean 	(888) 836-1195	
+Burn Clinic -Adults (0900-1600 M-F) 	4-3702/58932	
+Burn Clinic - Peds 	265-8800	
+Burn Unit (may ring 24 hrs - 7 days) 	265-0200	
+Burn Unit Operating room 	4-3704	
+Burn Unit Waiting 	4-5174	
+Business Development 	352-733-0333	
+Business Office - Live Oak 	386-362-0855	
+Business Related Services 	265-0355	
+Butler Building 	265-0495	
+BYRD III,JAMES EXT:7611 HC DEPT:3523761611 		
+C-PEC ( ER ) 	2-8920	
+Cafeteria Market South Tower P04 	371-0580	
+Call Center - fax 	265-7085	
+CAMPBELL,ANTHONY EXT:216 HC DEPT:3526222913 		
+Campus Credit Union 	335-9090	
+Cancer - Children`s Cancers 	392-5633	it
+Cancer - Lymphoma 	265-0725	nicu
+Cancer - Pediatric Hematology Oncology 	273-9120	nicu
+Cancer - Radiation Oncology 	265-0287	
+Cancer - Surgical Oncology 	265-0535	
+Cancer - Survivor Program 	273-8021	
+Cancer Appointment Information 	352-273-8010	
+Cancer Appointment Information 	(888) 742-6378	
+Cancer Center - Administration ( No Patients calls ) 	352-273-8010	
+Cancer Clinical Trials/Research 	352-273-8675	
+Cancer Davis Pavilion - Hematology/Oncology (Adult) 	265-0725	
+Cancer Davis Pavilion - Information desk 	8-7882	
+Cancer Davis Pavilion - Lab (2nd floor) - Fax 	265-0734	
+Cancer Davis Pavilion - Lab (2nd floor) 	265-0722	
+Cancer Davis Pavilion - Lab 	8-7839	
+Cancer Davis Pavilion - Pediatric Clinic Fax 	265-0729	
+Cancer Davis Pavilion - Physical Therapy 	265-7036	
+Cancer Davis Pavilion - Radiation Oncology Clinic - Fax 	265-0546	
+Cancer Davis Pavilion - Radiation Oncology Clinic 	265-0316	
+Cancer Davis Pavilion - Radiation Oncology Dept Fax 	265-0759	
+Cancer Davis Pavilion - Radiation Oncology Dept 	265-0287	
+Cancer Davis Pavilion - Security 	8-9046	
+Cancer Davis Pavilion Dietary 	8-7686	
+Cancer Davis Pavilion Pharmacy (Second Floor) - Fax 	265-0682	
+Cancer Davis Pavilion Pharmacy (Second Floor) 	265-0720	
+Cancer Genetics Program-Fax 	352-265-8404	
+Cancer Genetics Program 	8-9157	
+Cancer Lab 	273-8184	it
+Cancer Referral Line 	352-273-8010	nicu
+Cancer Research Bldg. 	273-8010	nicu
+Cancer Research Trials 	273-8313	
+Cancer Resource Center Bldg P04 	733-0916	
+Cancer South Tower 1515 SW Archer Rd 32608 		
+Candy Striper 	265-0360	
+Cannabbis - ise disorder 	265-4372	
+CANTWELL,SHAUNA DR. EXT:5654 HC DEPT:3523924700 		
+Capital Funds Management 	265-7964	
+CARDIACC - CATH LAB 	265-0119	
+Cardiac And Vascular Diagnostics - EKG & all other studies 	265-0047	
+Cardiac Catherization Lab - Fax 	265-0314	
+Cardiac Catherization Lab 	265-0119	
+Cardiac Cath Waiting Room 	5-0119	
+Cardiac Functions 	265-0047	
+Cardiac Stress Test 	265-0047	
+Cardiogram Lab - Echo 	265-0047	
+Cardiology- new patient scheduling 	265-0457	
+Cardiology- Return Patient Appts. 	265-0457	
+Cardiology @ Old Town UF Clinic 	352-542-1723	
+Cardiology @ Starke UF Clinic 	904-368-8180	
+Cardiology at Springhill - 8600 NW 39 Ave 2nd Floor 	265-0820	
+Cardiology at Springhill - fax 	265-0823	
+Cardiology at Springhill - Lab - Fax 	594-1774	
+Cardiology at Springhill - Lab 	594-1740	
+Cardiology at Springhill - Nurse - Fax 	594-1773	
+Cardiology at Springhill - Nurse Back Line 	594-1778	it
+Cardiology Dept 	352-273-9065	nicu
+Cardiology Invest Program - Fax 	392-6805	nicu
+Cardiology Invest Program 	846-0716	
+Cardiology Pediatric Clinic 	273-7770	
+Cardiothoracic Surgery 	265-5470	
+Cardiovascular Center of Excellence 	800-552-0215	
+Cardiovascular Center of Excellence 	265-0156	
+Cardiovascular Clinic - 1 st Flr. 	265-0457	
+Cardiovascular Clinic - Fax 	265-0122	
+Cardio Options - Jax 	904-268-6679	
+Cardio Pulmonary Clinic 	265-0139	
+CARD center (autism) 	273-0581	
+CareOne-Patient App.Shands 7th Flr- NOT A WALK IN CLINIC 	733-2273	
+CareOne-RESTRICTED not patient calls/Dr's, In-house calls 	594-2866	
+Care One-Patient Appt.Shands 7th Flr- NOT A WALK IN CLINIC 	733-2273	
+Care One-RESTRICTED-NO PATIENT CALLS-Shands 7th Flr 	594-2866	
+Care Spot - Ocala 	352-237-3536	
+Care Spot 2415 SW College Rd Ocala M-F 8a-8p Sat-Sun	8a-5p352-237-3536	
+Care Spot 3925 NW 43rd St. Mon-Sun 8am-8pm 	352-371-1777	
+Care Spot Express 2nd Ave. M-F 8am-8pm, Sat & Sun 8am-5pm 	240-8000	
+Care Spot Express 720 SW 2nd Ave Suite 160A 	240-8000	
+Care Spot Express Urgent Care (Ayers)Formly Solantic 	(352) 240-8000	
+Carousel Pharmacy Stores P04 	2-9587	
+Cars (Reserved State Cars MSB) 	392-2623	
+Case Management Fax 	265-0469	
+Case Management 	352-265-0224	
+Cashier - P04 	2-8884	it
+Cashier 	4-4500	nicu
+Cast Room 	273-7001	nicu
+Cath lab ( EP ) 	4-6682	
+Cath lab ( EP ) 	4-6921	
+Cath Lab Holding 	4-6333	
+Cath lab 	265-0119	
+CCM North Campus 82 Neuro & Burn (Critical Care Medicine)	352-745-1912	
+CCM South Campus 4E (Critical Care Medicine - Anesthesia)	352-260-7177	
+CCM South Campus 4W (Critical Care Medicine - Anesthesia)	352-494-9189	
+CCU on 2nd Floor 	265-0696	
+CDC North & South Tower 	265-0203	
+Celebration Health (Orlando) 	407-303-4000	
+Center for Autism and Related Disabilities 	273-0581	
+Center for Disease Control 	888-232-3228	
+Center for Taste and Smell 	294-0199	
+Center of Exercise and Sports Science 	392-0584	
+Center of Research of Women's Health 	392-9000	
+Central Business Office 	264-7875	
+Central Distribution Center North & South Tower 	265-0203	
+Central Distribution Center Restricted Back-Line 	4-4611	
+Central Nervous System Center for brain Therapy 	(352) 273-9000	
+Central Processing 	392-4621	
+Central Staffing (Administration only ) 	265-0188	
+Central Staffing (North & South Campus) 	733-0904	
+Central Staffing (Nurse calls) 	265-0216	
+Central Staffing FAX Rm G152.1 Bldg P04 	733-1344	
+Central Sterile Supply P04 	2-7243	it
+Central Sterile Supply 	265-0277	nicu
+CEO - Jimenez Edward 	352-733-1500	nicu
+Cerebral Palsy (Adult Neurology) 	265-8408	
+Cerebral Palsy Clinic 	273-7001	
+Cerebral Palsy Services 	7-8552	
+Cervix Gynecologic Oncology Center 	(352) 273-7555	
+CH2M Hill Bldg - transfer calls to the EBOC 	352-265-0465	
+Chairman Of Medicine ( Robert Hromas ) 	413-1456	
+CHANCEY,NANCY MS. EXT:72092 HC DEPT:3522650680 		
+CHAPEL-NO.T-NEAR CAFETERIA RM 1211-SEE ONCALL SERV TIMES 		
+Chaplain - Pastoral Services 	352-265-0224	
+Charge Control & Processing 	392-2713	
+Charity Care - Assistance with Physician - Clinic 	265-7906	
+Charity Care Register 	265-7906	
+Charity Care (tollfree) 	877-265-7213	
+Charlies Corner 	4-6060	
+Chaudhry, Naueen 	352-594-3589	
+Chemistry Lab Rocky Point 	7-2202	
+Chemistry 	4-4869	
+Chemo - IV - P04 	733-0889	
+Chemo Pharmacy - 7th flr - P04 	4-3396	
+Chemo Pharmacy - Medical Plaza 2nd flr 	265-0720	
+Chemo Therapy Clinic 	265-0725	
+Chest Pain ER 	3-1416	
+Chick Fil-A 	352-392-1021	
+Chief Executive Officer - Fax 	265-0177	
+Chief Executive Officer 	265-8929	it
+Chief Of Anesthesia 413-8020 	265-0486	nicu
+Chief of Staff - Fax 	265-0627	nicu
+Chief of Staff 	265-0301	
+Chief Resident Housestaff 	265-0239	
+CHILDRCSC - Ayers 	733-0065	
+Children's Development Services - Fax 	334-0244	
+Children's Development Services 	334-0228	
+Children's Medical Services (CMS) - Admin D3 - Tollfree 	(800) 523-7545	
+Children's Medical Services (CMS) - Admin for District 3 	334-1400	
+Children's Medical Services (CMS) - inhouse 	265-0459	
+Children's Medical Services - Fax 	334-1476	
+Children's Miracle Network 	265-7953	
+Children's Surgical Center Ayers -UF HEALTH 	352-733-0065	
+Children`s Cancers Pediattric Oncology Center 	(352) 392-5633	
+Children`s Cancers 	273-9120	
+Children`s welcome desk - 1st flr 	4-2803	
+Children`s Welcome Desk 1st Flr 	4-2802	
+CHILDR - Pediatric Surgery Center at Ayers 	733-0065	
+Child Abuse (HRS) 	800-342-9152	
+Child Abuse 	265-5481	
+Child Birth Classes @ Shands UF - 2nd line 	265-0035	
+Child Birth Classes @ Shands UF 	265-0317	
+Child Life Office - 13:00 - 16:00 (playroom) 	4-4057	
+Child Life Office - Unit 45 	4-6470	
+Child Life Office - 09:00 - 12:00 (playroom) 	4-5285	
+Child Protection Team - Fax 	334-1521	
+Child Protection Team 	334-1300	it
+Child Psychiatric Hospitalization 	265-5481	nicu
+Child Psychiatry-Outpatient Return Appts Med Plaza (HELP) 	265-4357	nicu
+Child Psychiatry - Inpatient/Vista 	265-5497	
+Chip Program - Child Health Insurance Program (Kidcare) 	888-540-5437	
+CHIRCOP,KIMBERLY Mrs. EXT:85699 HC DEPT:3522658017 		
+Choices 	264-6772	
+Cholesterol Study (ext - 5806) 	376-1611	
+CHRISTMAS,JENIKA Ms. EXT:45548 HC DEPT:3522650651 		
+CHRIS - Passwords 	265-0059	
+Chronic Pain (HELP) 	265-4357	
+CICU - Pod 1 (Rm 2518 - Ring for Drs only) 	5-0428	
+CICU - Pod 2 (Rm 2524 - Ring for Drs only) 	5-0442	
+CICU - Pod 3 (Rm 2531 - Ring for Drs only) 	5-0173	
+CICU - Pod 3 	5-0491	
+CICU - Pod 4 (Rm 2543 - Ring for Drs only) 	5-0251	
+CICU - Pod 5 (Rm 2549 - Ring for Drs only) 	5-0252	
+CICU 	352-265-0025	
+Civitan Blood Bank 	334-1000	
+Classes & Course ( HRD) 	5-7580	
+Classroom Scheduling (teaching labs) 	392-2733	
+Climacteric Medicine Center 	372-5600	
+Clinical & Community Dietetics 	4-6878	
+Clinical & Health Psychology - Clinic 	265-0294	
+Clinical & Health Psychology - Fax 	265-0096	
+Clinical & Health Psychology Dept 	(352) 273-6617	
+Clinical and Health Psychology 	(352) 273-6617	
+Clinical Care Supv. all non -ICU areas 	413-0185	it
+Clinical Engineering - Fax 	265-0209	nicu
+Clinical Engineering Bldg P04 	733-0908	nicu
+Clinical Engineering FAX Rm G306 Bldg P04 	733-1347	
+Clinical Engineering OR/ICU Bldg 2027 Bldg P04 	392-9006	
+Clinical Engineering 	265-0089	
+Clinical Lab - Fax 	265-0328	
+Clinical Lab 	265-0412	
+Clinical Microbiology 	265-0165	
+Clinical Pathology - Billing 	265-0172	
+Clinical Pathology 	627-9268	
+Clinical Psychology Clinic - Fax 	265-0096	
+Clinical Psychology Clinic 	265-0294	
+Clinical Psychology Dept 	(352) 273-6617	
+Clinical Research Center (CRC)@ 2004 MOWRY ROAD 	294-5900	
+Clinical Research 	294-5900	
+Clinical Resource Management - Fax 	733-3174	
+Clinical Resource Management 	265-0374	
+Clinical Translational Aging Research 	294-5900	
+Clinical Translational Research Building 	294-5900	
+Clinical Translational Scientific Institute 	294-5900	
+CliniCare Transport Service - for info 	265-8000	
+Clinic Administration 	265-8058	
+Clinic Information 	5-INFO	
+CMS ( Fax ) 	334-1476	
+CMS - Administration/Case Workers (No Appoinments) 	334-1400	
+CMS - Case Worker 	334-0206	
+CMS - Clinic ( Appointments only ) 	334-0206	it
+CMS inhouse 	352-265-0459	nicu
+Cocaine use disorder 	265-4372	nicu
+Cochler Implants ( ENT ) 	265-8989	
+Coding 	4-4815	
+Cognitive Behavior Therapy (HELP) 	265-4357	
+Collections - Univ Physicians Accounting Dept 	392-3341	
+Collections Attorney - Fax 	265-9002	
+Collections Attorney 	265-9005	
+Collections 	265-0355	
+Collection - Cashier - Fax 	265-0269	
+Collection - Cashier 	4-4500	
+Collection - Fax 	265-0718	
+College of Health Related Professions - Accountant I 	(352) 273-6192	
+College of Health Related Professions - Dean Ofc 	(352) 273-6631	
+College of Health Related Professions - Staff Asst 	(352) 273-6631	
+College of Medicine Admissions 	273-7990	
+College of Medicine Fringe Benefits 	273-5077	
+College of Med - Alumni Affair Development 	273-7986	
+College of Med - Assoc Dean for Curriculum 	392-0034	
+College of Med - Asst Dean for Pre-Prof Education 	273-8575	
+College of Med - Asst Dean JHEP 	904-350-6899	
+College of Med - Asst Dir Admin Service 	392-5640	
+College of Med - Asst Registrar 	273-7971	
+College of Med - Dean Ofc - Compliance 	265-8359	
+College of Med - Dean Ofc - Wayne Tharp 	265-8017	
+College of Med - Dean Ofc Fiscal - Accountant I 	392-3142	
+College of Med - Dean Ofc Fiscal - Asst Dir Fin Affairs 	392-3142	it
+College of Med - Dean Ofc 	273-7520	nicu
+College of Med - Dir Admin Services 	392-5793	nicu
+College of Med - Financial Aid 	273-7939	
+College of Med - Staff Asst II 	392-4176	
+College of Med - Student & Alumni Affairs (not residents) 	273-7971	
+College Of Nursing - Accountant - Fax 	392-8100	
+College Of Nursing - Accountant 	392-3517	
+College of Nursing - Admissions - Fax 	392-8100	
+College of Nursing - Admissions 	273-6400	
+College of Nursing - Assoc Dean 	392-3521	
+College Of Nursing - Asst. to Dean - Fax 	392-8100	
+College Of Nursing - Asst. to Dean 	392-3517	
+College of Nursing - Asst Dean Grad Program - Fax 	392-8100	
+College of Nursing - Curriculum & Instructions Coord - Fax 	392-8100	
+College of Nursing - Curriculum & Instructions Coord 	392-3524	
+College of Nursing - Dean's Office - Fax 	392-8100	
+College of Nursing - Dean's Office 	273-6001	
+College of Nursing - Jr & Sr Year Prof Dir 	392-4366	
+College of Nursing - Midwifery Program 	392-3704	
+College of Nursing - Research Coord - Fax 	392-3935	
+College of Nursing - Research Coord 	392-4367	
+College of Nursing - Research Support 	392-3754	
+College of Nursing - RN & BSN Prog Dir 	392-3512	
+College of Nursing 	273-6001	
+College of Pharmacy - Office of Clinical Affairs 	273-6611	
+COLLI DULA,REYNA EXT:5563 HC DEPT:3523922243 		
+Colonoscopy 	265-0048	it
+Colon Cancer (Peds Hem/Onc) 	273-9120	nicu
+Colon GI (Gastro-Intestnal) 	273-9400	nicu
+Command Post 	265-0012	
+Commuications Health Science (phone problems) 	273-1234	
+Communications, Shands - Fax 	265-0209	
+Communications, Shands 	265-0220	
+Communications Center - Break Room 	8-9291	
+Communications Center - Computer Room 	8-8281	
+Communications UF Health - (NOT telecommunications) 	265-0373	
+Communicative Disorders: Speech (Weekend pager) 	413-0624	
+Communicative Disorders - Fax 	392-6529	
+Communicative Disorders 	273-5289	
+Communicore Lecture Hall (Reservation) 	273-5064	
+Community Health&Family Med - Medical Education - Fax 	392-7349	
+Community Health & Family Medicine - Fax 	273-5213	
+Community Health & Family Medicine - Medical Education 	273-5161	
+Community Health & Family Medicine 	273-5138	
+Community Reading Room - Fax 	(352) 265-0921	
+Community Reading Room - Radiology 	(352) 265-0637	
+Community Relations - Fax 	265-7954	
+Community Relations 	265-7953	
+Comm break room 	8-9291	
+Compensation/Salary Info - Fax 	265-7947	
+Compensation/Salary Info 	5-7716	
+Complaints -Outpatient Clinics (Clinic Admin) 	265-8058	
+Complaints - Billing 	352-594-4134	
+Complaints - INPATIENTS (not for outpatient clinics) 	265-0123	it
+COMPLAINTS - USE ABOVE DO NOT SEND TO ADMINISTRATIVE #'S 		nicu
+Compliance -Hipaa for Auditors, etc. 	627-9050	nicu
+Compliance Hot-Line confidential & anonymous 	888-329-3569	
+Compulsions (HELP) 	265-4357	
+Computer Sciences 	392-3608	
+Computer Services (UF) 	392-4357	
+Computer Services - Information Technology (IT) Help Desk 	265-0526	
+Computer Services - Main Number 	594-1000	
+Concierge/Information Desk Main Bldg P04-Fax 	733-0317	
+Concierges - Gator Med (fax) 	352-265-8262	
+Concierges - Gator Med 	352-265-4287	
+Concierge / Information Desk Main Bldg P04 	733-0914	
+Conduct Disorder (HELP) 	265-4357	
+Conference Bridge Scheduling Mon-Fri 	265-0440	
+Conference Rooms Medical Plaza 2nd & 4th flr 	265-8548	
+Conference Room (MSB - 2nd floor) 	392-3157	
+Conference Room - Reserve a room P04 	733-0880	
+Conference room Medical Plaza 3rd flr only 	5-8280	
+Conference Room Reserve ( Ayers ) 	733-0881	
+Congenital Heart Center 	273-7770	
+Congential Heart Center ( Peds Cardiolgy ) 	(352) 273-7770	
+Consolidated Computer Inc 	392-3701	
+Construction Trailer 	265-5370	
+Continuing Medical Education - Assoc. Dean & Medical Dir. 	392-3085	
+Continuing Medical Education - Fax 	392-7337	
+Continuing Medical Education - Program Coordinator 	265-8081	
+Continuity Care (Resident's Clinic) 	334-0206	it
+Controller 	265-7962	nicu
+Copy Center 	273-5350	nicu
+Core Lab (Phlebotomy) FAX Rm G016 Bldg P04 	733-1348	
+Core Lab (Phlebotomy) Main Bldg P04 	733-0903	
+Core Lab - Rocky Point 	265-9961	
+Core Lab - UF 	265-0412	
+Core Trak 	225-6303	
+Corporate Compliance Department - fax 	265-6982	
+Corporate Compliance 	627-9050	
+Corporate Counsel VP - Fax 	265-0512	
+Corporate Counsel VP 	265-6995	
+CORTRAK PLACEMENT TEAM 	(352) 225-6303	
+Cosmetic Surgery @ Hampton Oaks 	265-9480	
+Cost Effectiveness Program 	5-7447	
+Cost of procedure - Inpatient Only 	265-0477	
+Coumadin Clinic @ Cardiovascular 	265-0457	
+Courier Service 	265-0522	
+COYLE,EMILY EXT:0 HC DEPT:3522650855 		
+CPR Classes - Basic Life Support 	265-0185	
+CPR Classes 	265-0078	
+CRAIG,RICHARD EXT:72036 HC DEPT:3522650680 		
+Cranial Facial Clinic 	627-9326	
+Craniofacial Center 	800-726-2029	
+Cranio Facial-Fax 	294-8096	
+Cranio Facial-Referrals 	627-9326	
+CRC - Clinical Research @ 2004 MOWRY ROAD 	294-5900	
+Credentialing & Medical Staff Services - Fax 	265-0627	it
+Credentialing & Medical Staff Services 	265-0301	nicu
+Credit & Collections 	265-0355	nicu
+Credit Union (In-house) 	4-5052	
+Credit Union ( Inhouse ) 	4-5251	
+Credit Union - Health Center Branch Loans (ext 1423) 	335-9090	
+Credit Union - Health Center Branch Manager (ext 1421) 	335-9090	
+Credit Union - Health Center Branch Teller (ext 1422) 	335-9090	
+Credit Union 	335-9090	
+Cremation Adult,child, baby- Funeral Home they chose 		
+Cremation Fetal deaths inhouse only not babies 	4-6539	
+Crest Med Center (Perry) 	904-584-0851	
+CRIBBS,BARBARA Ms. EXT:47301 HC DEPT:3523921161 		
+Criser Cancer Resources Center Rm 1302.2 Bldg P04 	733-0881	
+Crisis Center (Alachua County) 	264-6789	
+Critical Care Medicine (Anes) - Peds - Administration 	265-0462	
+Critical Care Medicine (Anesthesia) 	265-0463	
+Critical Care Medicine Peds Fax 	265-1012	
+Crothall Clinical Equipment Services 	265-0673	
+Crowne Point - Moved to Magnolia Parke 	265-5230	
+CRS (Const Mgmt Corp) 	265-0485	
+Crysto Clinic - Fax 	392-3918	
+Crysto Clinic 	392-3561	
+CSO - Central Staffing (Administration only) 	265-0188	
+CSO - Central Staffing (North & South Campus) 	733-0904	
+CSO - Central Staffing (Nurse calls) 	265-0216	
+CSO - Central Staffing FAX Rm. G152.1 Bldg P04 	733-1344	
+CSS Main Bldg P04 	733-0935	it
+CTRB - Clinical Translational Research Building 	294-5900	nicu
+CTSI - Clinical Translational Scientific Institute 	294-5900	nicu
+CT & Ultrasound Check-In 	4-4353	
+CT Scan - Outpt & Inpt. - located in North Tower SUF 	4-6068	
+CT Scan - Radiology scheduling (7AM-6PM) 	265-0104	
+CT Scan After Hrs/Weekends In House calls 	4-4385	
+CT Scan Room Bldg P04 	733-0895	
+Cubicle Area - 3rd & 4th yr student 	392-3138	
+Cutro Ray Med 	(352) 265-0239	
+CVS Pharmacy ( Archer Rd ) 	373-2507	
+Cystic Fibrosis - Pediatrics 	273-8380	
+Cystoscopy - Fax 	265-1837	
+Cystoscopy - Information 	4-3855	
+Cystoscopy Suite 	4-3855	
+Cytogenetics Lab at UF 	7-2009	
+Cytology Lab - Rocky Point 	7-2119	
+Cytology Main Bldg P04 	733-0902	
+C T Scan 	4-6068	
+Data Processing - HIS 	392-2648	
+Data Processing 	594-1000	
+DAVIS,BOBBIE MS. EXT:4608 HC DEPT:3523924700 		
+DCF (Abuse hotline) 	800-962-2873	
+DCI Unit ( Dialysis 39th ) 	337-6021	
+Death Certificates - HRS Alachua County (COPIES ONLY) 	334-7900	
+Decals 	392-7275	
+Decision Support Services 	733-3180	
+DECKER,ALICIA EXT:159 HC DEPT:4078842034 		it
+Decontamination 	265-0277	nicu
+Deep Brain Stimulation (DBS) (HELP) 	265-4357	nicu
+Delusions 	265-5481	
+Dementia (HELP) 	265-4357	
+Dementia (Neurology) 	265-8408	
+Dementia 	265-5481	
+Denistry , Oral Surgery Financial Dept. 	273-6725	
+Dental Clinic - Admin general questions about treatment 	352-273-6820	
+Dental Clinic - Admin if specific clinic/issue is unknown	352-273-6820	
+Dental Clinic - Business Office - Patient Accounting 	352-273-5380	
+Dental Clinic - Cashier 	352-273-5385	
+Dental Clinic - Center for Implant Dentistry 	352-273-6715	
+Dental Clinic - Dental Stores - Henry Schein Stores 	352-378-5750	
+Dental Clinic - Dentures/partials/bridges/crowns/implants	352-273-6910	
+Dental Clinic - Endodontics - Root Canals 	352-273-5430	
+Dental Clinic - Endodontic Res 1st Afterhour Emergency 	352-413-6115	
+Dental Clinic - Endodontic Res 2nd Afterhour Emergency 	352-413-2399	
+Dental Clinic - Facial Pain Center 	352-273-7619	
+Dental Clinic - Faculty Practice - Fax 	352-392-4070	
+Dental Clinic - Faculty Practice 	352-273-7950	
+Dental Clinic - Graduate / Resident Periodontics 	352-273-7846	
+Dental Clinic - Graduate / Resident Prosthodontics 	352-273-6910	
+Dental Clinic - Hialeah Dental Center 	305-694-5400	
+Dental Clinic - Main line - Phone tree 	352-273-6700	
+Dental Clinic - Naples Pediatric Dental Center (NCEF) FAX	239-775-7035	
+Dental Clinic - Naples Pediatric Dental Center (NCEF) 	239-775-3052	
+Dental Clinic - Operator Back up line 	352-273-6810	it
+Dental Clinic - Operator 	352-273-6701	nicu
+Dental Clinic - Oral & Maxillofacial Surgery - Fax 	352-294-8064	nicu
+Dental Clinic - Oral & Maxillofacial Surgery 	352-273-6731	
+Dental Clinic - Oral & Maxillofacial Surg - Referrals Fax	352-392-6909	
+Dental Clinic - Oral Medicine/Oncology -soft tissue issue	352-273-6740	
+Dental Clinic - Oral Medicine/Oncology - due to illness 	352-273-6740	
+Dental Clinic - Oral Medicine / Oral Oncology 	352-273-6740	
+Dental Clinic - Oral Surgery cases by referral 	352-273-6731	
+Dental Clinic - Orthodontics - Faculty Practice - Braces 	352-273-7960	
+Dental Clinic - Orthodontics - Faculty Practice - TMJ 	352-273-7960	
+Dental Clinic - Orthodontics - Students - Braces 	352-273-5651	
+Dental Clinic - Orthodontics 24/7 pager number 	352-252-0331	
+Dental Clinic - Orthodontics Faculty Practice Facial Pain	352-273-7960	
+Dental Clinic - Patient Advocate - Patient Complaints 	352-273-6825	
+Dental Clinic - Patient Records - request copy of records	352-273-6812	
+
