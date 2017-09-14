@@ -1,1 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=.8">
+    <title>UFHealth Directory</title>
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+    <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+    <style>
+      p.tel {text-decoration:underline}
+      h1 { padding:0; margins:0; display:inline; }
+      strong { font-size: 8px; font-style: italic; }
+      span {font-size: smaller; }
+      .ui-select, .ui-input-search {height:40px;}
+    </style>
+</head>
+<body>
+<div id="list-descriptions" data-role="page">
+  <div data-role="header" data-position="fixed"><h1>UFHealth Directory</h1></div>
+  <div role="main" class="ui-content">
+    <form class="ui-filterable">
+      <div class="ui-grid-a">
+        <div class="ui-block-a">
+          <input id="descriptions-input" data-type="search" placeholder="Search..." />
+        </div>
+        <div class="ui-block-b">
+          <fieldset id="searchLangs" data-role="controlgroup" data-type="horizontal">
+              <select name="select-choice-0" id="select-choice-1">
+              <option value="">No Filter &nbsp; &nbsp; </option>
+              <option value="nicu">NICU</option>
+              <option value="115">11-5</option>
+              <option value="it">I.T.</option>
+            </select>
+          </fieldset>
+        </div>
+      </div>
+    </form>
+    <ul id="descriptions-list" data-role="listview" data-filter="true" data-icon="false" data-input="#descriptions-input">
+    </ul>
+  </div>
+  <!-- /content -->
+
+</div>
+<!-- /page-list-descriptions -->
+</body>
+<script>
+$(document).on("pageinit", "#list-descriptions", function () {
+    var txt='';
+    var dir_list=['','nicu','115','it'];
+    $.get("dir.txt", function (data) {
+        $.each(data.split("\n"), function () {
+            var a=this.split("\t");
+            if(a.length<2) return;
+            var name=a[0];
+            if(name=='name') return;
+            var tel=a[1]||'';
+            var num=tel.replace(/[^[0-9]/g,'');
+            if(num.length==5) {}
+            else if(num.length==7) {num='9'+num;}
+            else if(num.length==10) {num='91'+num;}
+            else if(num.length==11 && num.substr(0,1)=="1") {num='9'+num;}
+            else {console.log('skipping'); return;}
+            
+            var dir=a[2]||'';
+       		$("#descriptions-list").append(
+                    '<li data-filtertext="' + name + '" data-lang="' + dir + '">' +
+                      '<a href="tel:' + num + '">' + 
+		              '<h1>'+name+'</h1>'+
+                      '<p class="tel">' + tel + '</p>' +
+                      '<p class="ui-li-aside" style="vertical-align:bottom"><strong style="color:blue;font-style:italic">' + dir + '</strong></p>' + 
+		              '</a>' + '</li>'
+            );
+        });
+        $('a.ui-btn-icon-right').removeClass('ui-btn-icon-right');
+        $("#descriptions-list").filterable('option', 'filterCallback', checkedOrMatch);
+        $("#select-choice-1").on("change", function() {
+          $("#descriptions-list").filterable("refresh");
+        });
+        //$('input').css('height',$('select').css('height'));
+        $('option').css('padding','10px');
+    });
+});
+function checkedOrMatch(idx, searchValue) {
+  var ret = false;
+  var test = $('#select-choice-1').val().toLowerCase() || '';
+  var lang = $(this).data("lang") || ''; // li lang
+  if(lang.length==0) {} // okay
+  else if (test.length>0 && lang != test) ret = true; //filter this one out
+
+  if(!ret) {
+    searchValue = searchValue.toLowerCase() || '';
+    var filttext = $(this).data("filtertext") || ''; // li text
+    filttext = filttext.toLowerCase();
+    //console.log('test:'+test+' srch:'+searchValue+' lang:'+lang);
+    if (searchValue.length && filttext.indexOf(searchValue) < 0) {
+      ret = true; //filter this one out
+    }
+  }
+  return ret;
+}
+</script>
 
